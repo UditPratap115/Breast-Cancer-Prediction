@@ -1,2 +1,2 @@
 # Breast-Cancer-Prediction-Using-Different-Machine-Learning-Techniques
-UCI winscoin data set is used for predicting the stage of Breast Cancer. Diffrent machine learning models are hypertuned and there performance is analysed to find best model for predicting the stage of Breast Cancer
+UCI Winscoin data set is used for predicting the stage of Breast Cancer. Different machine learning models are hyper tuned and their performance is analysed to find the best model for predicting the stage of Breast Cancer
